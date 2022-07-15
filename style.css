@@ -64,7 +64,7 @@ input{
   position:absolute;
   top:0;
 }
-.description{
+.description,.humidity,.wind{
   text-transform:uppercase;
   margin:1em;
   }
