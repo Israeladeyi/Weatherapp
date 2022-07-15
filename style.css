@@ -64,3 +64,7 @@ input{
   position:absolute;
   top:0;
 }
+.description{
+  text-transform:uppercase;
+  margin:1em;
+  }
